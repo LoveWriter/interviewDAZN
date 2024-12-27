@@ -1,0 +1,28 @@
+{
+  "name": "interviewdazn",
+  "version": "1.0.0",
+  "description": "interview assessment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mraj",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.2",
+    "node-cache": "^5.1.2",
+    "pino-http": "^10.3.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "eslint": "^9.17.0",
+    "globals": "^15.14.0",
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.18.2"
+  }
+}
