@@ -34,3 +34,6 @@ Implemented rate-limiting
 Implemented Node-cache for caching
 
 Did not add test - cases If time will do 
+
+
+For rate-limit only 3 request allowed and after 5mins it will be renewed
