@@ -32,3 +32,5 @@ Aftwr Git clone Please do below steps and need to send ?signer=admin so that adm
 Implemented middlewares using Joi 
 Implemented rate-limiting
 Implemented Node-cache for caching
+
+Did not add test - cases If time will do 
